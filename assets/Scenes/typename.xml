@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nifty>
+    <useControls filename="nifty-default-controls.xml"/>
+    <useStyles filename="nifty-default-styles.xml"/>
+    <screen id="GScreen0">
+        <layer id="GLayer8" childLayout="absolute">
+            <panel id="GPanel3" childLayout="absolute" width="50%" x="214" y="181" style="nifty-panel-simple" height="30%">
+                <control name="textfield" id="GTextfield0" width="50%" x="51" y="94" height="14%"/>
+                <control name="button" id="GButton0" childLayout="center" x="270" width="26%" y="93" label="Submit" height="14%"/>
+                <control name="label" id="GLabel0" width="212px" x="91" y="17" text="You won enter your name" height="48px" font="aurulent-sans-16.fnt"/>
+            </panel>
+        </layer>
+    </screen>
+</nifty>

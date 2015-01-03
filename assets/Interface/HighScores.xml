@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nifty>
+    <useControls filename="nifty-default-controls.xml"/>
+    <useStyles filename="nifty-default-styles.xml"/>
+    <screen id="GScreen0">
+        <layer id="GLayer1" childLayout="absolute">
+            <panel id="GPanel0" childLayout="absolute" width="50%" x="239" y="164" style="nifty-panel-simple" height="30%">
+                <control name="listBox" id="GListBox1" width="50%" x="102" y="47"/>
+                <control name="label" id="GLabel0" width="100px" x="148" y="2" text="High scores" height="50px" font="aurulent-sans-16.fnt"/>
+            </panel>
+        </layer>
+    </screen>
+</nifty>
